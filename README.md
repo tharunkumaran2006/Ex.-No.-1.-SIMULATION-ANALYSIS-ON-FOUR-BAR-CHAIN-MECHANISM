@@ -56,11 +56,10 @@
 ![Screenshot 2024-01-01 230635](https://github.com/tharunkumaran2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151625188/f7384fec-1785-4ba7-a82a-42d588cd7a71)
 
 
-![Screenshot 2024-01-01 225552](https://github.com/tharunkumaran2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151625188/fb71a3e3-eb78-4fbf-9615-e47efd24fc3e)
-
-![Screenshot 2024-01-01 225611](https://github.com/tharunkumaran2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151625188/fd1e3e82-89cd-4714-a9d5-84c028efe2d5)
+![Screenshot 2024-01-01 230822](https://github.com/tharunkumaran2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151625188/3aece9c5-4e90-4e3d-b6a1-e6f0ef0c5270)
 
 
+![Screenshot 2024-01-01 230847](https://github.com/tharunkumaran2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151625188/364c061e-e475-4dea-b6f9-524d4a2e45e2)
 
 ### Name: Tharun V K
 ### Register Number: 23003686 
